@@ -24,7 +24,7 @@ My favorite programming language so far has to be `C++` due to its efficiency an
 
 > “C++ is designed to allow you to express ideas, but if you don't have ideas or don't have any clue about how to express them, C++ doesn't offer much help.” -random quote I found online on C++ 
 
-Some of my goals for second-year of college include:
+Some of my goals for my second-year of college include:
 
 - [x] Maintaining a strong GPA
 - [ ] Having a project listed on my resume
